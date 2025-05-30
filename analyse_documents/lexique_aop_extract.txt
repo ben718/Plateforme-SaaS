@@ -1,0 +1,416 @@
+LEXIQUE D’APPELS
+D’OFFRES PUBLICS
+« INTRODUCTION »
+
+
+
+
+Sébastien Gérard
+
+
+
+
+                   1
+2
+
+
+
+
+    1 Table des matières
+     1.1     Veille :.................................................................................................................................................................................. 4
+           1.1.1       Arrêté préfectoral ........................................................................................................................................... 4
+           1.1.2       Avis de marchés publics ........................................................................................................................... 4
+           1.1.3       BOAMP (Bulletin Officiel des Annonces des Marchés Publics) ..................................... 4
+           1.1.4       Code de la Commande Publique ...................................................................................................... 4
+           1.1.5       JAL (Journal d’Annonces Légales) .................................................................................................... 4
+           1.1.6       JOUE (Journal Officiel de l’Union Européenne) ......................................................................... 4
+           1.1.7       DAJ (Direction des Affaires Juridiques) ................................................................................................ 4
+           1.1.8       Sourcing ................................................................................................................................................................. 5
+     1.2     Appel d’offres ................................................................................................................................................................. 6
+           1.2.1       Accord-cadre.................................................................................................................................................... 6
+           1.2.2       Acheteurs publics ............................................................................................................................................. 6
+           1.2.3       Appel à projet ...................................................................................................................................................... 6
+           1.2.4       Appel d’offres ........................................................................................................................................................ 6
+           1.2.5       BPU (Bordereau des Prix Unitaires) ............................................................................................................ 6
+           1.2.6       CCAG (Cahier des Clauses Administratives Générales) ............................................................. 6
+           1.2.7       Contrat de concession .................................................................................................................................. 6
+           1.2.8            DCE (Dossier de Consultation desEntreprises) ........................................................................ 6
+           1.2.9            Dialogue compétitif ................................................................................................................................... 6
+           1.2.10           DSP (Délégation de Service Public)...................................................................................................7
+           1.2.11      MAPA (Marchés à Procédures Adaptées) ............................................................................................7
+           1.2.12           Marché à bon de commande..............................................................................................................7
+           1.2.13           Marché négocié ............................................................................................................................................7
+           1.2.14           Opérateur économique............................................................................................................................7
+           1.2.15           Pouvoir adjudicateurs ................................................................................................................................7
+     1.3     Candidature ................................................................................................................................................................... 8
+           1.3.1       Allotissement ..................................................................................................................................................... 8
+           1.3.2            Chorus Pro ........................................................................................................................................................ 8
+           1.3.3            Co-traitance ................................................................................................................................................. 8
+           1.3.4            DUME (Document Unique de MarchéEuropéen) .................................................................... 8
+
+
+                                                                                                                                                                           Page 2 sur 10
+3
+
+
+
+
+          1.3.5             Mémoire technique .................................................................................................................................... 8
+          1.3.6             RC (Règlement de Consultation) ........................................................................................................ 8
+          1.3.7             Sous-traitance ............................................................................................................................................ 8
+          1.3.8             Soumissionnaire......................................................................................................................................... 9
+          1.3.9             Variante ............................................................................................................................................................ 9
+          1.3.10            Audition ............................................................................................................................................................. 9
+          1.3.11       CAO (Commission des Appels d’Offres) ............................................................................................. 9
+          1.3.12            Jury ....................................................................................................................................................................... 9
+          1.3.13            Négociation ................................................................................................................................................... 9
+          1.3.14            MOE (Maîtrise d’oeuvre) ............................................................................................................................ 9
+          1.3.15            MOA (Maître d’Ouvrage) .......................................................................................................................... 9
+    1.4            Attributaire.................................................................................................................................................................10
+          1.4.1        Avis d’attribution ................................................................................................................................................10
+          1.4.2             Exécution des marchés publics ........................................................................................................10
+          1.4.3             Facturation électronique .......................................................................................................................10
+          1.4.4             Signature électronique ...........................................................................................................................10
+          1.4.5             Facturation électronique .......................................................................................................................10
+          1.4.6             Titulaire du marché ...................................................................................................................................10
+          1.4.7             Retenue de garantie .................................................................................................................................10
+
+
+
+
+                                                                                                                                                                           Page 3 sur 10
+4
+
+
+
+
+    OBJET : Mieux comprendre le vocabulaire des marchés publics
+
+
+    1.1 Veille :
+    1.1.1    Arrêté préfectoral
+    Décision émanant d’une autorité administrative. Dans l’ordre juridique, un arrêté a moins de valeur qu’un
+    décret qui lui-même a moins de valeur qu’une loi.
+    Notre veille se concentre sur les arrêtés préfectoraux et municipaux (enquête publique, autorisation ou
+    agrément, prescription complémentaire, mesure d’urgence et fin d’exploitation, mises en demeure)
+    principalement liés à l’aménagement du territoire et la protection de l’environnement.
+    Repérer et suivre ces décisions permettent d’anticiper les futurs investissements publics.
+
+    1.1.2    Avis de marchés publics
+    Publicité publiée par l’acheteur public qui sertà informer les entreprises qu’il cherche un fournisseur ou un
+    prestataire.
+    Cet avis comprend les informations permettant au candidat de se positionner ou non sur le marché (intérêt
+    pour le marché, capacités d’y répondre, conditions et modalités de choix de l’offre).
+
+    1.1.3    BOAMP (Bulletin Officiel des Annonces des Marchés Publics)
+    Bulletin publiant des annonces légales dans le but de transparence économique et financière. Une diffusion est
+    obligatoire pour tous les marchés dont le montant est supérieur aux seuils européens.
+
+    1.1.4    Code de la Commande Publique
+    Code juridique français regroupant les dispositions régissant les contrats de la commande publique, suivant une
+    distinction entre les marchés publics et les concessions.
+    Ce nouveau Code répond à un double objectifde renforcement de « l’accessibilité du droit » etde «
+    simplification administrative ».
+
+    1.1.5     JAL (Journal d’Annonces Légales)
+    Périodique d’information habilité à collecter, recevoir et publier les annonces légales des sociétés commerciales
+    et civiles. En fonction des seuils de publicité, il est obligatoire de faire publier un avis dans un journal d’annonces
+    légales (Le Moniteur des Travaux Publics et du Bâtiment, Ouest France, Nice Matin, le Parisien).
+
+    1.1.6    JOUE (Journal Officiel de l’Union Européenne)
+    Publication officielle émanant de l’Office despublications de l’Union européenne et publiée dans 24 langues.
+    Pour susciter la plus largeconcurrence, l’acheteur public doit procéder à une publicité dans des conditions fixées
+    par la réglementation.
+
+    1.1.7     DAJ (Direction des Affaires Juridiques)
+    Données essentielles
+    Deux mois après la notification du marché public à l’attributaire, l’acheteur doit publier les données essentielles
+    du marché sur son profil acheteur. Cela concerne les données liées à la passation du marché et à son attribution
+    (ex : Siret de l’acheteur et de l’attributaire, montant du marché, lieu d’exécution, durée etc ...)
+    Seuil
+    La passation d’un marché public est soumise àdes règles de procédure et de publicité pour garantir une
+    concurrence satisfaisante entre les différentes entreprises.
+              Seuils de procédure : montant à partir duquel la réglementation des marchés publics s’applique.
+              Seuils de publicité : montant du besoin à partir duquel les avis de publicité doivent être publiés sur
+              certains supports imposés
+
+
+
+
+                                                                                                         Page 4 sur 10
+5
+
+
+
+
+    1.1.8     Sourcing
+    Afin de préparer la passation d’un marché public, l’acheteur peut réaliser des études de marché, solliciter des
+    avis, ou informer les opérateurs économiques de son projet et de ses exigences. En effet, la description des
+    spécifications techniques du marché n’est pas toujours aisée pour les acheteurs, surtout concernant des sujets
+    évolutifs ou techniquement complexes.
+
+
+
+
+                                                                                                    Page 5 sur 10
+6
+
+
+
+
+    1.2 Appel d’offres
+
+    1.2.1    Accord-cadre
+    Marché fractionné permettant de répondre aux besoins de l’acheteur public au fur et à mesure de leur
+    apparition. Conclu pour unepériode maximale de 4 ans avec la possibilité de reconductions, il permet de retenir
+    un ou plusieurs candidats sur la base d’un cahier des charges. Ils sont ensuite remis en concurrence entre eux
+    périodiquement ou lorsqu’un besoin survient.
+
+    1.2.2   Acheteurs publics
+    Personne qui passe un marché de travaux, de fournitures ou de services. Il porte aussi le nom de
+    « Pouvoir adjudicateur » ou de « commanditaire de l’offre ».
+
+    1.2.3    Appel à projet
+    Utilisé par les pouvoirs publics, les organismes institutionnels ou des financeurs privés afin de répondre à une
+    problématique nécessitant une subvention. Il permet une mise en concurrence moins contraignante en termes
+    de critères et dedélais et ouvre la possibilité à de nouvelles idées.
+
+    1.2.4    Appel d’offres
+    Document formulé par l’acheteur public afin de choisir l’offre la plus avantageuse et donc l’entreprise
+    attributaire qui va réaliser une prestation de travaux, fourniture ou service. Le détail précis du marché est
+    mentionné dans le dossier de consultation des entreprises (DCE). De plus, celui-ci peut être ouvert ou restreint.
+             Ouvert : il permet à tout fournisseur ou prestataire intéressé par l’appel d’offres de candidater.
+             Restreint : il s’adresse uniquement aux candidats présélectionnés par l’acheteur. Cette sélection est
+             effectuée sur la base du chiffre d’affaires,des compétences professionnelles, des moyens humains et
+             techniques.
+
+    1.2.5    BPU (Bordereau des Prix Unitaires)
+    Document contractuel précisant les prix applicables à chaque élément d’ouvrage ou aux unités de produits ou de
+    services prévus qui sont décrites dans les documents du marché. Le BPUa pour but de donner une indication du
+    montant final en fonction des volumes que l’acheteur public souhaite commander.
+
+    1.2.6    CCAG (Cahier des Clauses Administratives Générales)
+    Intégré au dossier de consultation des entreprises (DCE), le CCAG est un document qui fixe les obligations d’ordre
+    juridique et financier d’un marché public dans un domaine donné (fournitures, services, travaux etc.).Le pouvoir
+    adjudicateur peut décider ou non de se référerà un CCAG.
+    Si le pouvoir adjudicateur choisit d’y faire référence, il lui appartient de prévoir, dans le cahier des clauses
+    administratives particulières (CCAP), les dérogations qu’il souhaite.
+    Si le pouvoir adjudicateur choisit de ne pas faireréférence à un CCAG, il devra intégrer, dans le CCAP, les
+    dispositions nécessaires à la bonne exécution des prestations.
+
+    1.2.7    Contrat de concession
+    Contrat par lequel une ou plusieurs autorités concédantes confient l’exécution de travaux ou lagestion d’un service
+    à un ou plusieurs opérateurs économiques. Le concessionnaire peut alors exploiter l’ouvrage ou le service et
+    assume les risques liés cette exploitation.
+
+    1.2.8   DCE (Dossier de Consultation desEntreprises)
+    Dossier délivré aux entreprises par l’acheteur public dans le cadre de la passation d’un marché public. Il
+    comporte tous les documents nécessaires à la consultation des candidats à unmarché.
+
+    1.2.9  Dialogue compétitif
+    Procédure par laquelle l’acheteur dialogue avec les candidats admis à y participer afinde définir ou de
+    développer la solution qui répondra à son besoin.
+
+
+
+
+                                                                                                       Page 6 sur 10
+7
+
+
+
+
+    1.2.10 DSP (Délégation de Service Public)
+    Contrat par lequel un acheteur public confiela gestion d’un service public dont il a la responsabilité à un
+    délégataire public ou privé. Le bénéficiaire n’est pas régularisé par l’acheteur mais par les recettes d’exploitation
+    du service, par exemple les autoroutes.
+
+    1.2.11 MAPA (Marchés à Procédures Adaptées)
+    Procédure dont les modalités sont librement fixées par l’acheteur public en fonction de la nature du besoin, du
+    nombre ou de la localisation des entreprises susceptiblesd’y répondre pour les besoins d’un montant inférieur
+    aux seuils de procédure formalisée.
+
+    1.2.12 Marché à bon de commande
+    Marchés conclus avec une ou plusieurs entreprises et exécutés au fur et à mesure dela survenance du besoin
+    par l’émission de bonsde commande. Ils permettent aux acheteurspublics d’effectuer des achats à caractère
+    répétitif auprès d’une ou plusieurs entreprises sélectionnées à la suite d’une seule procédure de publicité et de
+    mise en concurrence.
+
+    1.2.13 Marché négocié
+    Procédure par laquelle la personne publiquechoisit le titulaire du marché, après consultationde candidats et
+    négociation des conditions du marché avec un ou plusieurs d’entre eux.
+
+    1.2.14 Opérateur économique
+    Ce terme couvre à la fois les notionsd’entrepreneur, fournisseur et prestataire deservices. Il est utilisé uniquement
+    dans un souci de simplification. Plus globalement, on parle d’entreprise.
+
+    1.2.15 Pouvoir adjudicateurs
+    Terme utilisé pour désigner une catégorie d’acheteurs publics : Etat, collectivités territoriales,organismes de droit
+    public… Ces organismes sont soumis aux règles fixées dans la 1ère partie du code de la commande publique.
+
+
+
+
+                                                                                                          Page 7 sur 10
+8
+
+
+
+
+    1.3 Candidature
+
+    1.3.1   Allotissement
+    Fractionnement d’un marché en plusieurs sous-ensembles appelés «lots», susceptibles d’être attribués
+    séparément et de donner lieu, chacun,à l’établissement d’un marché distinct.
+
+    1.3.2   Chorus Pro
+    Plateforme de dématérialisation qui permet aux entreprises de créer leur DUME et de transmettre par voie
+    électronique les factures aux acheteurspublics.
+
+    1.3.3    Co-traitance
+
+    Pour répondre à un marché public, les entreprises sont libres de se grouper dans la forme exigée par l’acheteur
+    public. Un groupement momentané d’entreprises est alors crée et les capacités de l’ensemble des membres sont
+    prises en compte. Elle permet aux entreprises la mise en commun de leurs moyens humains et matériels, d’accéder à
+    de plus gros projets et de multiplier leurs références et savoir-faire
+    DQE (Détail Quantitatif Estimatif)
+    Document utilisé dans les marchés à prix unitaires pour comparer les prix. Il s’agit d’une simulation portant sur les
+    principaux produits ou postes de coûts représentatifs du marché, effectuant la somme des quantités estimées par les
+    prix unitaires. DUME (Document Unique de MarchéEuropéen)
+
+
+    1.3.4    DUME (Document Unique de MarchéEuropéen)
+    Document administratif à fournir pour candidater à un marché public. Il constitue une déclaration sur l’honneur de
+    l’entreprise candidate, certifiant de sa capacité à répondre à un marché public. Aucune attestation ni aucun autre
+    document n’est requis si un DUME est fourni par l’entreprise.
+    GME (Groupement Momentanéd’Entreprises)
+    Accord momentané entre plusieurs entreprises pour élaborer une offre commune en réponse à un marché. Il permet
+    aux entreprises de répondre à un marché auquel elles ne pourraient soumissionner seules.
+    Lot
+    Partie d’une procédure de marché public définiepar le fractionnement du besoin en prestations distinctes, pour
+    des raisons économiques,financières ou techniques. Chaque lot donne lieu à un marché séparé des autres lots.
+    Une entreprise peut choisir de candidater à un ou plusieurs lots pour un même appel d’offres.
+
+    1.3.5    Mémoire technique
+    Document rédigé par les entreprises à joindre pour répondre à un dossier d’appel d’offres. Il permet à l’acheteur
+    d’apprécier et de noter l’offreselon les critères énoncés dans la publicité et lerèglement de la consultation.
+    Profil acheteur
+
+    Site dématérialisé sur lequel l’acheteur public publie ses achats. Il permet la mise en ligneet le
+    téléchargement des documents de la consultation et de recevoir les candidatures et les offres électroniques
+    des entreprises de manière sécurisée et confidentielle.
+
+    1.3.6   RC (Règlement de Consultation)
+    Document accessible dans le DCE qui décrit les modalités de la mise en concurrence entre les soumissionnaires. Il
+    n’est pas obligatoire dansla mesure où les mentions sont contenues dans l’avis d’appel public à la concurrence.
+
+    1.3.7    Sous-traitance
+    Elle autorise les entreprises attributaires du marché à confier à une ou plusieurs entreprises tierces l’exécution d’une
+    partie du contrat dont elles sont les titulaires et qu’elles ne peuvent ou ne veulent exécuter elles-mêmes. Cela permet
+    aux entreprises de s’appuyer sur des compétences et des moyens extérieurs pour candidater à un marché. Ce
+    principe favorise aussi l’accès des petites et moyennes entreprises à la commande publique.
+
+
+
+
+                                                                                                          Page 8 sur 10
+9
+
+
+
+
+    1.3.8    Soumissionnaire
+    C’est l’opérateur économique (ou l’entreprise) qui candidate à un marché public. Elle soumet son offre à
+    l’acheteur public.
+
+    1.3.9   Variante
+    Proposition par le candidat d’une solution alternative à la solution de base décrite dans le cahier des charges
+    Soutenance
+
+    1.3.10 Audition
+    Présentation à l’oral de votre projet au jury composé du commanditaire de l’offre ainsi qued’experts du métier.
+    Cette étape est utile si l’objetdu marché et la demande faite par l’acheteur sont particulièrement complexes et
+    nécessitentdes éclaircissements. Les experts sont aussi présents ce jour-là pour aider les acheteursà prendre
+    leur décision, bien que leurs avis ne comptent pas dans la notation globale.
+
+
+    1.3.11 CAO (Commission des Appels d’Offres)
+    Structure collégiale c o m p o s é e de membresà voix délibératives et consultatives. Dans les collectivités
+    locales, elle attribue les appels d’offres et les marchés négociés.
+
+    1.3.12 Jury
+    Instance de décision désignée spécifiquement pour chaque projet de maîtrise d’œuvre,examinant les
+    candidatures, examinant les prestations des candidats sélectionnés et pouvant inviter les candidats à répondre
+    à des questions. A la différence de la commission d’appel d’offres, le jury n’émet qu’un avis motivésur le choix des
+    candidats et sur les projets quilui sont présentés, il n’attribue pas le marché.
+
+    1.3.13 Négociation
+    Elle sert à confronter les attentes de l’acheteur public avec ceux de l’entreprise candidate àun marché.
+    Contrairement à l’audition, elle n’apas pour objectif de présenter le projet mais dedéfendre les intérêts de chacun
+    pour arriver à unaccord mutuel.
+
+    1.3.14 MOE (Maîtrise d’oeuvre)
+    Entité (architecte, entreprise ou artisan) retenuepar le maître d’ouvrage, pour la réalisation de lamission dans les
+    conditions de délais, de qualité et de coûts fixées par ce dernier conformémentà un contrat. Il conçoit les plans,
+    organise,coordonne, supervise les différents corps de métier qui travaillent sur un même projet et livre le projet
+    une fois terminé. Il est choisi par lemaître d’ouvrage pour qui le projet est réalisé.
+    1.3.15 MOA (Maître d’Ouvrage)
+    Personne physique ou morale pour laquelle un projet est mis en œuvre et doit être réalisé. Il est généralement
+    le commanditaire du projet. Il définit les moyens et les objectifs à atteindre. Pour réaliser le projet, le maître
+    d’ouvrage fait appel à un maître d’œuvre (MOE). Donneur d’ordre, il suit le projet durant toute sa réalisation, il
+    se présente à la fois comme pilote et propriétaire de l’ouvrage.
+
+
+
+
+                                                                                                       Page 9 sur 10
+10
+
+
+
+
+     1.4 Attributaire
+
+     1.4.1     Avis d’attribution
+     Publication qui intervient après la décision finale du commanditaire de l’offre concernant le candidat retenu
+     pour assurer la mission préalablement énoncée. Il informe l’ensemble des participants sur la décision qui a été
+     prise. L’avis doit être publié dans un délai maximal de 30 jours au BOAMP et au JOUE.
+
+     1.4.2    Exécution des marchés publics
+     Dispositions qui s’appliquent lorsque le marchépublic est en cours d’exécution après la signature
+     du contrat. Il constitue la phase critique de mise en œuvre de tous les éléments préparés lors de la passation du
+     marché. C’est aussi la période de gestion administrative, financièreet technique des événements prévus ou
+     non lors de la mise en œuvre du contrat. L’exécutioncontractuelle d’un marché se matérialise par les points
+     suivants : la notification du marché, le cadre contractuel, le démarrage, les délais d’exécution, les modifications,
+     la réception, la résiliation et le traitement des litiges.
+
+     1.4.3    Facturation électronique
+     La facturation dématérialisée, possible sur la plateforme Chorus Pro, est obligatoire pourtoutes les entreprises
+     et fournisseurs depuis le1er janvier 2020.
+
+     1.4.4     Signature électronique
+     C’est au moment de l’attribution que l’acheteurdemande à l’entreprise attributaire de signer l’offre retenue car
+     elle a valeur de contrat. Attention : si l’acheteur a exigé la signature électronique au stade de la candidature
+     et de l’offre initiale, le défaut de signature rend l’offre irrégulière. Pour signer électroniquementil faut être muni
+     d’un certificat de signature électronique et d’un logiciel de signature.
+
+     1.4.5    Facturation électronique
+     La facturation dématérialisée, possible sur la plateforme Chorus Pro, est obligatoire pourtoutes les entreprises
+     et fournisseurs depuis le1er janvier 2020.
+
+     1.4.6     Titulaire du marché
+     C’est l’entreprise qui a remporté le marché. Elleest aussi appelée « attributaire du marché ».
+
+     1.4.7     Retenue de garantie
+     Le marché public peut prévoir une retenue de garantie. Dans ce cas, elle est fixée à maximum 5% du montant
+     initial du marché. Elle est prélevée par le comptable par fractions sur chacun des versements effectués par
+     l’acheteur public mais pas sur une avance. Cette garantie a pour objectif de couvrir les réservesà la réception ou
+     les malfaçons qui ne sont pas apparentes ou dont les conséquences ne sontpas identifiables au moment de la
+     réception des travaux, des fournitures ou des services. Pour lesmarchés publics conclus par l’Etat et une petiteet
+     moyenne entreprise mentionnée à l’article R. 2151-13, ce taux est de 3 %.
+
+
+
+
+                                                                                                        Page 10 sur 10
+

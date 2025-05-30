@@ -1,0 +1,146 @@
+Fournisseur de
+solutions télécom et IT
+pour les pros et entreprises
+Paritel
+Leader indépendant français des télécoms
+
+Depuis 30 ans, Paritel, filiale du Groupe Global Concept, a
+développé une véritable expertise dans la fourniture de solutions
+de communications pour les professionnels et les entreprises.
+Propriétaire de son infrastructure réseau, Paritel propose des
+services de téléphonie fixe, mobile, Internet, réseaux et
+cybersécurité mais aussi de vidéosurveillance, télésurveillance
+et de monétique.
+
+
+                             *   *   *
+Les dates clés de Paritel
+
+          1991                            2009                                 2010
+Jean-Philippe Bosnet fonde      Paritel devient propriétaire de   Intégration d'Interveille, expert en
+          Paritel.            son réseau et opérateur télécom.         télé et vidéosurveillance
+
+
+
+
+          2011                            2014                                 2017
+  Paritel devient MVNO et     Paritel lance sa gamme Nomadeo        Lancement de Neoconnect,
+   propose des offres de            incluant des offres 4G.        plateforme collaborative et de
+     téléphonie mobile.                                               communication unifiée.
+
+
+
+         2019                             2021                                  2022
+Paritel étend sa couverture    Paritel est un acteur de la 5G.       Paritel renforce son offre de
+        fibre optique.                                                 communication unifiée
+                                                                      en lançant Neoconnect+.
+Plus proche, plus pro
+35 agences en France Métropolitaine
+
+Paris, Lyon, Nantes, Marseille, Toulouse, Nancy... Paritel
+dispose d’un maillage territorial sur l'ensemble de l’Hexagone
+lui permettant de répondre aux besoins spécifiques de chacun
+de ses clients.
+                            *   *   *
+Nos offres
+Téléphonie professionnelle
+
+
+
+
+     Standard de communication
+
+      Communications unifiées
+
+                  Mobile
+
+ 6
+Nos offres
+Très Haut Débit
+
+
+
+
+                  Fibre
+
+           Réseaux & Wifi
+
+                   5G
+ 7
+Une offre globale
+Un interlocuteur unique
+
+
+
+      Offre sur mesure
+
+
+     Gain de productivité
+
+
+
+
+8
+Principes fondateurs de notre architechure
+Notre réseau
+Une infrastructure dédiée
+                                             Cœur de reseau MPLS
+    3 Datacenters et + de 100 serveurs
+
+
+        Sécurité de vos données
+                                         Géoredondance des services :
+         Hébergement en France           Collectes, Transits, services internes…
+
+
+                                              Transit internet via Zayo et Orange
+                                          Collecte internet via Covage, Axione, Colt,
+                                           Netalis, SFR, Orange, XPFibre et KOSC
+9
+                                            Interco TDM et SIP via Orange et SFR
+Principes fondateurs de notre architecture
+Notre réseau
+Une infrastructure dédiée
+
+
+     3 Datacenters et + de 100 serveurs
+                                                Bulles de services
+         Sécurité de vos données
+                                           indépendantes et protégés :
+          Hébergement en France                Chaque bulle de service est
+                                          cloisonnée et protégée par un cluster
+                                                       de firewall
+
+
+
+10
+Notre réseau
+Une infrastructure dédiée
+
+
+     2 Datacenters et + de 100 serveurs
+
+
+         Sécurité de vos données
+
+
+          Hébergement en France
+
+
+
+
+11
+Ils nous font confiance
+
+
+
+
+12
+     Expertise
+
+     Partenariat
+
+
+      Merci !
+13
+

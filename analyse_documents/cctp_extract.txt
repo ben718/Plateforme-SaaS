@@ -1,0 +1,1012 @@
+HABITAT 17        CCTP             20/03/2023
+
+
+
+Cahier des Clauses Techniques et
+Particulières – Marché de
+télécommunications voix – Téléphonie
+fixe pour le compte d’HABITAT 17
+
+
+
+
+                                           1
+HABITAT 17                                                                   CCTP                                                           20/03/2023
+
+
+                                                                    SOMMAIRE
+
+I-         Contexte général ............................................................................................................................. 4
+      A-        Présentation d’Habitat 17 .......................................................................................................... 4
+      B-        Sites concernés ........................................................................................................................... 4
+      C-        Objet du marché......................................................................................................................... 4
+      D-        Référence aux normes et règlements ........................................................................................ 4
+      E-        Confidentialité et propriété intellectuelle des projets ............................................................... 5
+II-        Obligation des parties ..................................................................................................................... 5
+      A-        Engagements du TITULAIRE ....................................................................................................... 5
+      B-        Obligations du CLIENT ................................................................................................................ 5
+III-            Point sur la situation actuelle ..................................................................................................... 6
+      A-        Réseaux d’interconnexion .......................................................................................................... 7
+           1.       Schéma général de la configuration réseau existante ........................................................... 7
+           2.       Abonnements réseaux ........................................................................................................... 8
+           3.       État des lieux du cœur de réseau situé sur le Siège............................................................... 8
+      B-        Réseaux LAN ............................................................................................................................... 8
+           1.       Siège d’Habitat 17 .................................................................................................................. 8
+           2.       Agences et bureaux................................................................................................................ 9
+      C-        Réseaux de téléphonie fixe ........................................................................................................ 9
+           1.       Équipement et maintenance de la téléphonie d’entreprise existants .................................. 9
+           2.       Accès opérateur pour les appels entrants/sortants d’Habitat 17 ......................................... 9
+           3.       Abonnements par type et par site ......................................................................................... 9
+           4.       Volumétrie de trafic téléphonique pour l’ensemble des sites .............................................. 9
+IV-             Synthèse des attentes d’HABITAT 17 concernant la téléphonie fixe ....................................... 10
+      A-        Description générale des besoins............................................................................................. 10
+      B-        Liste des besoins optionnels..................................................................................................... 11
+      C-        Raccordement par le TITULAIRE ............................................................................................... 11
+      D-        Exploitation et complément d’abonnement ............................................................................ 12
+           1.       Exploitation .......................................................................................................................... 12
+           2.       Dé-numérotation ................................................................................................................. 12
+           3- Trafic entrant et sortant ............................................................................................................ 12
+V-              Spécification techniques générales .......................................................................................... 12
+      A-        Proposition du TITULAIRE......................................................................................................... 12
+      B-        Construction, maintenance, mise en œuvre ............................................................................ 13
+      C-        Ouverture et résiliation de lignes et de services ...................................................................... 13
+                                                                                                                                                            2
+HABITAT 17                                                               CCTP                                                           20/03/2023
+
+
+  D-        Qualité de service ..................................................................................................................... 13
+       1.       Études préalables et prérequis ............................................................................................ 14
+       2.       Description du service proposé ........................................................................................... 14
+       3.       Qualité de service ................................................................................................................ 14
+       4.       Modalités de mise en œuvre du service .............................................................................. 15
+       5.    Dispositions et procédures liées à une modification ou à des actions de maintenance
+       entraînant des perturbations sur les communications ................................................................. 15
+       6.       Contrôle du service effectué ................................................................................................ 16
+       7.       Gestion des incidents et service après-vente ...................................................................... 16
+       8.       Garantie de temps de rétablissement ................................................................................. 17
+       9.       Sécurité des communications .............................................................................................. 18
+       10.          Vérification du fonctionnement des services livrés ........................................................ 19
+       11.          Plan qualité ...................................................................................................................... 20
+       12.          Maintenance préventive ................................................................................................. 20
+       13.          Documentation ................................................................................................................ 20
+  E-        Documents à fournir à l’appui des offres ................................................................................. 20
+VI-         Annexes .................................................................................................................................... 21
+  A-        Liste des sites............................................................................................................................ 21
+  B-        Liste des sous réseaux .............................................................................................................. 22
+
+
+
+
+                                                                                                                                                         3
+HABITAT 17                                      CCTP                                      20/03/2023
+
+
+    I-       Contexte général
+
+    A- Présentation d’Habitat 17
+
+Établissement public, industriel et commercial, Habitat 17 construit, réhabilite et entretient un
+patrimoine de logements locatifs sociaux sur l'ensemble du département de la Charente-Maritime.
+
+En tant que partenaire des collectivités locales et territoriales charentaises-maritimes dans leur
+politique de développement local, Habitat 17 met son savoir-faire au service des municipalités et les
+accompagne dans le développement d'une offre immobilière de qualité, en adéquation avec les
+attentes des élus et des habitants, en zone urbaine et rurale.
+
+Près de 90 collaborateurs travaillent à Habitat 17 et sont répartis majoritairement sur le siège de
+l’office. Le reste des collaborateurs est réparti sur les quatre agences et les trois bureaux.
+
+Depuis le 29 janvier 2024, Habitat 17 a mis en place un service Relation Clients. Ce service relation
+clients prend en charge tous les appels en provenance des locataires, des demandeurs de logement,
+des prestataires etc…
+
+    B- Sites concernés
+
+La fourniture de services présentée dans ce CCTP concerne l’ensemble des sites d’Habitat 17, dont une
+liste est fournie en annexe, au chapitre « VI-A- Liste des sites ».
+
+    C- Objet du marché
+
+L’objet de ce marché est l’évolution du système de communication VOIX d’Habitat 17 :
+
+    -    Proposer une meilleure solution de téléphonie à nos collaborateurs,
+    -    Bénéficier d’un outil de communication innovant, moderne, adapté aux nouvelles
+         technologies et capable d’évoluer avec celles-ci (IP, mobilité, visioconférence etc…),
+    -    Mettre en œuvre de nouvelles fonctionnalités téléphonique pour notre service Relation Clients
+         (5 opérateurs + 1 responsable de service),
+    -    Être capable de s’intégrer au système d’information actuel,
+    -    Proposer une architecture modulable, évolutive, et optimale qui garantisse la pérennité de
+         l’investissement qui sera réalisé,
+    -    Optimiser les coûts de fonctionnement, d’exploitation, d’administration et de maintenance.
+
+    D- Référence aux normes et règlements
+
+L’ensemble des fournitures et services mentionnés au marché sera exécuté conformément aux normes
+et règlements en vigueur. Le TITULAIRE est notamment réputé avoir une connaissance exhaustive des
+normes, règlements et directives en vigueur dans le secteur des télécommunications.
+
+Si une nouvelle norme ou un nouveau règlement apparaît en cours d’exécution du marché, le
+TITULAIRE aura l’obligation de s’y conformer immédiatement et de tenir informé le CLIENT de leur
+impact sur les prestations fournies dans le cadre de ce marché.
+
+
+                                                                                                    4
+HABITAT 17                                        CCTP                                      20/03/2023
+
+
+    E- Confidentialité et propriété intellectuelle des projets
+
+Le TITULAIRE s’engage à une confidentialité totale concernant les informations transmises dans le
+cadre de la présente consultation.
+
+Les émetteurs des présents documents s’engagent par ailleurs à une réserve totale relativement aux
+documents et informations qui leur seront transmises par le TITULAIRE.
+
+    II-       Obligation des parties
+    A- Engagements du TITULAIRE
+
+Le TITULAIRE s’engage à ce que les fonctionnalités, performances et spécifications, telles que définies
+dans son offre et présentées dans la documentation, aient un caractère d’obligation de résultat
+minimum au regard des spécifications émises par le CLIENT.
+
+Le TITULAIRE reconnaît notamment être tenu à une obligation générale de conseil, d’information et
+de recommandation des utilisateurs, tout au long de la durée du présent marché. Le TITULAIRE
+s’engage à informer le CLIENT sans délai de la stratégie commerciale sur les nouveaux produits et
+services.
+
+Dans le cas où le TITULAIRE n'est pas reconduit ou renouvelé à l'issue du présent accord-cadre, il
+s'engage à participer loyalement à la transition des services vers le nouveau prestataire et remettre au
+pouvoir adjudicateur l’ensemble des données figurant dans l’outil objet du présent accord-cadre afin
+qu’elles puissent être reprises par l’éventuel prestataire suivant.
+
+Les éléments suivants doivent être assurés par le TITULAIRE :
+
+    -     La fourniture de toutes les données d'inventaire et/ou de configuration permettant de faciliter
+          la collecte d'information et le déploiement du nouveau prestataire.
+    -     A l'issue de la migration vers le nouveau prestataire
+               o La suppression de toutes les données contenues dans ses outils/solutions en lien avec
+                   le pouvoir adjudicateur.
+               o La récupération de ses équipements d'extrémité sur chaque site après la migration des
+                   accès, dans un délai maximum de 30 jours calendaires.
+
+En complément, le TITULAIRE s'engage à assurer la continuité de ses accès jusqu'à la mise en œuvre
+effective des services du nouveau prestataire, et ce même après la date d'échéance du présent accord-
+cadre. Cette obligation ne pourra excéder une durée de 3 mois.
+
+    B- Obligations du CLIENT
+
+Le CLIENT confère au TITULAIRE par les présentes le droit d’accéder à tout site du CLIENT sous réserve
+du respect par le TITULAIRE des conditions spécifiques de contrôle d’accès et de sécurité fixées par le
+CLIENT dans ses locaux.
+
+Le CLIENT fournira à ses frais exclusifs, l’espace et la puissance électrique nécessaires au bon
+fonctionnement des services. Il répondra à toute demande d’information du TITULAIRE.
+
+
+
+
+                                                                                                       5
+HABITAT 17                                       CCTP                                       20/03/2023
+
+
+Le CLIENT informera le TITULAIRE de toutes installations techniques et autres existantes (telles que les
+installations d’eau, de gaz...) qui risqueraient d’être endommagées à l’occasion de l’installation et de
+la fourniture des services de télécommunications.
+
+Le CLIENT est tenu à une obligation de collaboration et à ce titre, il met à la disposition du TITULAIRE,
+les informations le concernant et qui lui seraient nécessaires dans le cadre du présent marché.
+
+À l’expiration d’un service, il laissera libre accès au TITULAIRE pour ôter les équipements et matériels.
+
+Pour le cas où il aurait été nécessaire de procéder à des aménagements ou modifications des locaux
+du CLIENT pour permettre la mise en place du ou des service(s), le TITULAIRE sera tenu de remettre
+lesdits locaux dans l’état où ils se trouvaient avant la fourniture des services.
+
+    III-     Point sur la situation actuelle
+
+Les données relatives à l’existant ne sont communiquées qu’à titre indicatif et ne constituent pas un
+engagement de la part du CLIENT.
+
+L’existant en termes de liaisons et/ou de compléments d’abonnement peut avoir légèrement évolué
+entre la constitution du C.C.T.P. et la consultation du TITULAIRE.
+
+
+
+
+                                                                                                       6
+HABITAT 17                                      CCTP                                      20/03/2023
+
+
+    A- Réseaux d’interconnexion
+    1. Schéma général de la configuration réseau existante
+
+
+Le schéma ci-après présente les liens d’interconnexions réseaux tels qu’ils existent en mars 2024.
+
+
+
+
+                                                                                                     7
+HABITAT 17                                       CCTP                                     20/03/2023
+
+
+    2. Abonnements réseaux
+
+
+Ces abonnements regroupent :
+
+Les abonnements Internet et VPN pour le Siège, les quatre agences de Royan, Jonzac, Surgères et
+Villeneuve les Salines ainsi que les trois bureaux de gardiens d’immeubles Saint Jean d’Angely, Aytré
+et La Tremblade.
+
+
+
+    3. État des lieux du cœur de réseau situé sur le Siège
+
+
+Cette salle est composée d’une baie serveurs et une baie de brassage informatique auxquels sont
+raccordés les équipements d’Habitat 17 et ceux des opérateurs.
+
+Les baies contiennent entre autres les équipements réseaux suivants :
+
+    -   Un PABX Alcatel OmniPCX,
+    -   Deux passerelles (messagerie et CPU secondaire) et 12 batteries de secours,
+    -   Quatre switchs Zyxel (3 XGS2220-54HP et 1 XGS2210-28HP),
+    -   Un tiroir Fibre opérateur et un convertisseur réseau TELCO T-Mark 280,
+    -   Un routeur Mikrotik RB2011UiAS pour l’arrivée du lien fibre optique 200M,
+    -   Un routeur CISCO 800 Series pour l’arrivée du lien SDSL de secours,
+    -   Le T2 (type trunk SIP) est fourni par une gateway VOIP Patton Smart Node secourue
+        électriquement par un onduleur.
+
+
+
+    B- Réseaux LAN
+    1. Siège d’Habitat 17
+
+
+Aujourd’hui, le siège d’Habitat 17 est équipé de 4 switchs Zyxel :
+
+    -   Trois Zyxel XGS2220-54HP pour connecter les différents étages (RDC, R+1, R+2),
+    -   Un Zyxel XGS2210-28HP correspondant à notre switch serveurs.
+
+Ces quatre switchs sont reliés en série par une rocade optique au routeur Mikrotik RB2011UiAS.
+
+Par ailleurs, la configuration réseau actuelle du siège possède plusieurs sous-réseaux dont un dédié à
+la téléphonie (VLAN 20).
+
+
+
+
+                                                                                                    8
+HABITAT 17                                      CCTP                                     20/03/2023
+
+
+    2. Agences et bureaux
+
+
+Les agences et bureaux possèdent des switchs de marque Zyxel.
+
+Ces agences et bureaux possèdent également plusieurs sous-réseaux détaillés dans l’annexe VI-B –
+Liste des sous réseaux.
+
+Un VLAN ToIP est bien configuré sur l’ensemble des switchs.
+
+    C- Réseaux de téléphonie fixe
+    1. Équipement et maintenance de la téléphonie d’entreprise existants
+
+
+Habitat 17 possède actuellement un PABX Alcatel Omni PCX (CPU principal), deux passerelles
+(messagerie et CPU secondaire) et 12 batteries de secours qui sont maintenus par un prestataire. Ce
+PABX alimente la téléphonie de l’ensemble des sites Habitat 17. Une soixantaine de postes IP sont
+raccordés à ce PABX (Alcatel Lucent 8028) ainsi qu’un POPC d’accueil (4059EE) et cinq postes
+opérateurs (Alcatel Lucent 8068).
+
+    2. Accès opérateur pour les appels entrants/sortants d’Habitat 17
+
+
+Le site est connecté au réseau de l’opérateur actuel, qui fournit un T2 en accès externe composé de
+20 canaux, via une GATEWAY VOIP PATTON Smart Node. Cet opérateur n’est pas le prestataire en
+charge de la maintenance de la téléphonie d’entreprise.
+
+    3. Abonnements par type et par site
+
+
+                     Type d'abonnement                                Quantité
+                     GTR 7j/7j 24-24 sur l’ensemble des sites         1
+                     Ligne analogique en VGA                          1
+                     Lignes SDA                                       80
+                     Trunk SIP IP 20 canaux                           1
+
+
+    4. Volumétrie de trafic téléphonique pour l’ensemble des sites
+
+
+Le volume de consommation donné ci-après est fourni au TITULAIRE à titre indicatif et ne fait l’objet
+d’aucun engagement de la part du CLIENT.
+
+Les tarifs proposés par le TITULAIRE à la liste des prix sont applicables même si le volume de
+communications réalisé est inférieur au volume présenté ci-dessous.
+
+             Année                                 Nombre de minutes
+             2023                                     101 372,64
+
+
+
+
+                                                                                                   9
+HABITAT 17                                        CCTP                                      20/03/2023
+
+
+    IV-       Synthèse des attentes d’HABITAT 17 concernant la téléphonie
+              fixe
+    A- Description générale des besoins
+
+Les besoins relatifs à la téléphonie fixe concernent :
+
+    -     Le remplacement du PABX du siège social par une solution Cloud/hébergée,
+    -     La mise à disposition d’une solution de softphonie avec différents types de licences :
+              o Licence « opérateur » (Standardiste/Relation Clients),
+              o Licence collaborateur sédentaire (avec possibilité d’y associer un téléphone fixe et/ou
+                   un micro-casque),
+              o Licence mobilité (avec possibilité d’y associer un téléphone fixe et/ou un micro-casque
+                   et reprise d’appel possible vers une ligne mobile. Préciser si cette licence pourrait
+                   convenir à un gardien qui n’a qu’un numéro de téléphone mobile et un numéro de
+                   téléphone fixe interne).
+    -     Une application mobile permettant d’accéder à/d’utiliser la téléphonie d’entreprise,
+    -     La possibilité de réaliser une connexion LDAP et/ou Microsoft 365 (Microsoft Entra) à la
+          solution de téléphonie pour la configuration des comptes utilisateurs,
+    -     La compatibilité avec la solution ISI-COM (https://www.isi-com.com/),
+    -     Un accès permettant le transit de 20 canaux simultanément pour les appels « externes » selon
+          l’une des possibilités suivantes :
+              o Un trunk SIP 20 canaux sur une connexion Internet,
+              o Autre : À expliciter par le TITULAIRE.
+    -     La construction et l’exploitation des raccordements au réseau téléphonique si nécessaires,
+    -     La fourniture des abonnements liés aux raccordements du réseau téléphonique si nécessaires,
+    -     La fourniture des compléments d’abonnement associés aux raccordements, les compléments
+          d’abonnement sont limités aux numéros SDA et aux services de taxation (portabilité des lignes
+          SDA de l’opérateur actuel vers le TITULAIRE sans rupture du service de téléphonie ou une
+          rupture maîtrisée dans le temps),
+    -     L’acheminement des communications entrantes, quelle que soit leur provenance,
+    -     L’acheminement des communications sortantes, quelle que soit leur destination.
+          Cet acheminement devra rester totalement transparent pour l’utilisateur.
+    -     La fourniture, la pose et le raccordement des câblages et supports nécessaires pour le
+          raccordement des ressources à l’infrastructure,
+    -     La fourniture et la mise en ordre de marche des terminaux téléphoniques (téléphones fixes,
+          micro-casques etc…),
+    -     Le logiciel de gestion du système de communication,
+    -     La mise à disposition d’un serveur vocal interactif (SVI),
+    -     L’enregistrement et la mise en place des messages d’attente, la musique de garde, comme
+          actuellement sur notre PABX actuel,
+    -     La fourniture de la documentation des différents systèmes en langue française,
+    -     Les fonctionnalités d’informations de disponibilités d’un collaborateur (En ligne, absent,
+          occupé, etc…). Nous serions sensibles à la possibilité de pouvoir en créer de nouveaux avec
+          des règles de gestion bien précises.
+    -     Les essais et paramétrages nécessaires pour mettre les installations en parfait état de
+          fonctionnement et les livrer conformes aux spécifications du présent CCTP,
+
+
+                                                                                                     10
+HABITAT 17                                        CCTP                                      20/03/2023
+
+
+    -    La participation aux contrôles techniques effectués par les utilisateurs ou son représentant sur
+         le site des installations,
+    -    La reprise de l’ancien matériel de téléphonie (PABX, batteries de secours, passerelles,
+         téléphones IP),
+    -    Toutes relations de coordination avec les services de l’opérateur d’interconnexion réseaux
+         d’Habitat 17, ainsi que les formalités administratives relatives aux installations,
+    -    Maintenance annuelle avec GTR 24/24, 7j/7,
+    -    Formation des utilisateurs,
+    -    Le TITULAIRE proposera une offre de reprise pour les éventuels systèmes annexes (PABX, la
+         soixantaine de téléphones fixes, les 12 batteries de secours, les deux passerelles de
+         téléphonie).
+
+    B- Liste des besoins optionnels
+
+Hormis les besoins généraux, nous souhaiterions, en option, les fonctionnalités suivantes :
+
+    -    Pour notre service Relation Clients :
+             o Interface de supervision des équipes,
+             o Enregistrement des appels,
+             o Ecoute des appels,
+             o Données statistiques d’appels par collaborateur/opérateur de la relation clients
+                 (exemples : durée moyenne d’appel, durée moyenne de pause, nombre d’appels
+                 pris…),
+             o Export de ces données statistiques.
+    -    Pour l’ensemble des collaborateurs :
+             o Un chat textuel,
+             o De la visioconférence.
+    -    Autres fonctionnalités pertinentes que le TITULAIRE pourrait proposer dans sa solution.
+
+    C- Raccordement par le TITULAIRE
+
+Le TITULAIRE fera une proposition technologique qui lui semble la mieux adaptée au contexte
+d’Habitat 17 :
+
+    -    Réseau numérique historique (T2),
+    -    Utilisation d’un trunk SIP IP,
+    -    Autres à préciser.
+
+Il devra alors détailler :
+
+    -    Les bénéfices et les contraintes d’exploitation apportés par l’emploi de cette technologie,
+    -    Les fonctionnalités supportées et celles qui ne sont pas supportées, compte tenu des
+         équipements existants à HABITAT 17 :
+             o Numéro abrégé,
+             o Présentation du numéro,
+             o Messagerie vocale (répondeur),
+             o Au moins 2 appels simultanés,
+             o Redirection des appels vers numéro abrégé ou externe,
+             o Gestion de groupements d’appel,
+
+                                                                                                      11
+HABITAT 17                                      CCTP                                      20/03/2023
+
+
+              o Gestion des files d’attente,
+              o Supervision des lignes.
+    -    La liste des équipements nécessaires en remplacement ou par des équipements actuels,
+    -    Les coûts associés : abonnements, acquisition du matériel, mise en service,
+    -    Un planning de mise en œuvre.
+
+Concernant les coûts, nous serions sensibles à une proposition tarifaire sous la forme d’un
+abonnement global pour l’ensemble de nos communications de téléphonie fixe, hors numéros
+spéciaux.
+
+    D- Exploitation et complément d’abonnement
+    1. Exploitation
+
+
+Les services demandés permettent d’établir et de recevoir des communications téléphoniques avec
+l’ensemble des clients des réseaux de télécommunication ouverts au public.
+
+Le service comprend l’acheminement des communications entrantes et sortantes de type Sélection
+Directe à l’Arrivée (SDA) et doit permettre l’identification de l’appelant.
+
+    2. Dé-numérotation
+
+
+Les séquences de numérotation actuellement utilisées sont conservées. En aucun cas (exception faite
+de déplacement géographique des sites), le CLIENT ne doit subir de dé-numérotation.
+
+Les tranches SDA existantes, et devant impérativement être maintenues, seront transmises à la mise
+au point du marché. Dans le cas d’une nécessité impérative de connaissance de ces tranches SDA, elles
+seront transmises sur demande.
+
+3- Trafic entrant et sortant
+
+
+Le service demandé comprend toutes les prestations nécessaires à l’acheminement des
+communications entrantes et sortantes et ce, quelle que soit leur origine ou leur destination.
+
+Le réseau du TITULAIRE dispose des ressources suffisantes pour ce faire.
+
+    V-       Spécification techniques générales
+    A- Proposition du TITULAIRE
+
+Le TITULAIRE détaillera dans le « Bordereau de Prix Unitaire » situé en annexe de l’Acte d’Engagement,
+le coût des abonnements, consommations et frais d’installation relatifs aux produits et services
+proposés. L’ensemble des prix est exprimé en euros HT (Hors Taxes).
+
+Le TITULAIRE présentera également le mode de raccordement envisagé pour la solution de téléphonie
+(T2 classique, Trunk SIP, autre…).
+
+
+
+
+                                                                                                   12
+HABITAT 17                                         CCTP                                         20/03/2023
+
+
+    B- Construction, maintenance, mise en œuvre
+
+Sont comprises les prestations de construction, de raccordement et de maintenance des nouveaux
+sites ou d’évolution du nombre d’accès existants sur un site.
+
+Aucun frais de création ou de construction ne peut être perçu pour les raccordements existants et
+réutilisés dans le cadre du marché issu de la présente consultation.
+
+Les opérations de maintenance sur les installations du TITULAIRE sont à sa charge, y compris pour les
+équipements qui pourraient se situer dans les locaux du CLIENT.
+
+Le CLIENT met à disposition du TITULAIRE les emplacements nécessaires à l’implémentation des
+matériels du TITULAIRE, à des emplacements accessibles et de surface suffisante.
+
+Ces emplacements sont déterminés en priorité par le CLIENT, en fonction de son existant en termes
+de locaux techniques.
+
+L’accès aux locaux donne lieu à une prise de rendez-vous préalable et ne peut être réalisé sans la
+présence d’un représentant du CLIENT.
+
+    C- Ouverture et résiliation de lignes et de services
+
+Toute ouverture de ligne téléphonique, d’ajout de licence ou souscription de service ne peut être
+réalisée sans demande formelle de la part du CLIENT.
+
+Les demandes de résiliation de lignes et de services sont réalisées par demande écrite du CLIENT par
+courrier ou par courrier électronique. Ces demandes sont traitées dans les meilleurs délais.
+
+Les modalités et spécificités liées aux résiliations de services (notions de pénalités) sont clairement
+mentionnées.
+
+L’ensemble des lignes souscrites, même si elles sont commandées ou renouvelées au cours du marché,
+ainsi que l’ensemble des services souscrits, auront pour échéance d’engagement, la fin du marché
+correspondant à ce lot.
+
+Toutes les lignes et tous les services sont résiliables sans frais ni pénalités à la fin de la première année
+du marché et à la fin de chaque période de reconduction du présent marché.
+
+
+
+    D- Qualité de service
+
+Le TITULAIRE détaillera dans un mémoire technique joint à sa réponse la description générale de l’offre
+qu’il se propose de mettre en œuvre dans le cadre du présent marché.
+
+L’offre comprendra non seulement les prestations décrites au présent article du C.C.T.P., mais
+également les prestations et fournitures annexes de gestion des installations de l’opérateur.
+
+Les solutions proposées doivent permettre une gestion efficace de la qualité de service, pour prioriser
+certains flux et gérer les contraintes « temps réel » imposées par les flux métiers, notamment les flux
+liés à des applications de type clients légers ou présentation d’application.
+
+
+                                                                                                          13
+HABITAT 17                                       CCTP                                       20/03/2023
+
+
+Le TITULAIRE indiquera comment il prend en charge la sécurité et assure l’étanchéité des flux sur son
+infrastructure pour garantir la confidentialité des données transitant via le WAN.
+
+De plus, il mentionnera le cas échéant, les opérateurs tiers impliqués dans le transport des flux.
+
+    1. Études préalables et prérequis
+
+
+Le TITULAIRE est tenu à une obligation d’étude préalable de l’ensemble des installations entrant dans
+le périmètre du présent document. Les données générales introduites dans celui-ci ne sont en aucun
+cas exhaustives. Il appartient au TITULAIRE de contrôler celles-ci, et éventuellement, de les compléter
+notamment au cours d’une visite sur les lieux.
+
+Le TITULAIRE précisera les prérequis nécessaires à la mise en en œuvre du service correspondant à
+chaque service demandé, et il devra notamment lister et quantifier les différents impacts de la solution
+proposée en fonction de l’existant.
+
+    2. Description du service proposé
+
+
+Le TITULAIRE procèdera à une description exhaustive et détaillée du service offert, en donnant
+notamment les caractéristiques techniques générales et significatives suivantes de son réseau :
+
+    -   Type d’application et de trafic supportés,
+    -   Modalités physiques et logiques d’accès aux services,
+    -   Technologies des interfaces et des protocoles,
+    -   Débits supportés et garantis, par type de communication (voix, données…),
+    -   Compression ou non des informations transportées.
+
+    3. Qualité de service
+
+
+Le TITULAIRE précisera les éléments qu’il compte mettre en œuvre pour assurer la qualité de service,
+en particulier :
+
+Qualité de fonctionnement :
+
+    -   Qualité audio des communications, en précisant le taux de compression utilisé,
+    -   Temps d’établissement des communications,
+    -   Continuité de service,
+    -   Taux de disponibilité assuré,
+    -   Taux d’erreurs pour les liens numériques,
+    -   Délais de rétablissement en fonction du jour et de l’heure :
+            o En cas d’incident majeur : Nombre d’heures de rupture,
+            o En cas d’incident mineur : Nombre d’heures de dégradation,
+    -   Critères et outils de suivi de performances,
+    -   Indicateurs de qualité de service,
+    -   Organisation de l’assistance :
+            o Localisation géographique des centres d’intervention et de supervision,
+            o Niveau d’assistance en fonction du jour et de l’heure,
+            o Protocole en cas d’incident,
+            o Numéro de téléphone et/ou mail pour joindre l’assistance ou autre moyen de
+                communication avec l’assistance (portail…),
+
+                                                                                                     14
+HABITAT 17                                         CCTP                                     20/03/2023
+
+
+            o Interlocuteur dédié,
+    -   Évolutivité de l’offre.
+
+Contrôle de la qualité :
+
+Le TITULAIRE précisera les moyens mis en œuvre pour son propre compte d’une part, et pour le CLIENT
+d’autre part, afin d’assurer le suivi de la qualité de service.
+
+    4. Modalités de mise en œuvre du service
+
+
+Le TITULAIRE détaillera la solution qu’il propose afin d’accéder à ses services (mise en place de nouveau
+matériel, travaux…).
+
+Après un constat d’état initial avec le CLIENT, il précisera :
+
+    -   Les conditions de réception des nouvelles installations,
+    -   Les délais de livraison,
+    -   Les conditions d’environnement électrique et climatique nécessaires,
+    -   Autres : Préciser.
+
+Le marché s’exécute au moyen de bons de commandes dont le délai d’exécution commence à courir à
+compter de la date de notification du bon.
+
+À compter de la date de réception de la commande, le TITULAIRE dispose d’un délai précisé dans son
+mémoire technique pour effectuer les travaux de raccordement et de mise en service. Cette mise en
+service est constatée lors de l’admission provisoire. Si l’admission provisoire n’intervient pas dans les
+délais contractuels mentionnés dans cet article, les pénalités prévues dans le C.C.A.P. s’appliqueront.
+
+    5. Dispositions et procédures liées à une modification ou à des actions de maintenance
+       entraînant des perturbations sur les communications
+
+
+Toute intervention prévue sur le service de téléphonie et exerçant une quelconque influence (coupure,
+perturbation…) sur le trafic devra être signalée par courrier, par mail au CLIENT (interlocuteur à
+déterminer lors de la mise en place) et ce au moins cinq jours avant la date de début d’intervention.
+
+
+
+
+                                                                                                      15
+HABITAT 17                                        CCTP                                        20/03/2023
+
+
+    6. Contrôle du service effectué
+
+
+Le TITULAIRE doit pouvoir fournir le justificatif de chaque communication « départ » comprenant au
+moins :
+
+    -   La date,
+    -   L’heure,
+    -   Le numéro appelé (suivant directive de la CNIL),
+    -   Le numéro de l’appelant (suivant directive de la CNIL),
+    -   La durée,
+    -   Le coût.
+
+Le TITULAIRE doit pouvoir fournir le justificatif de chaque communication « arrivée » comprenant au
+moins :
+
+    -   La date,
+    -   L’heure,
+    -   Le numéro appelé (suivant directive de la CNIL),
+    -   Le numéro de l’appelant (suivant directive de la CNIL),
+    -   La durée,
+    -   Le coût.
+
+Il sera demandé au TITULAIRE, pour chaque mois, que l’ensemble des éléments de facturation soit
+accessible sous un format électronique (format compatible avec une application de bureautique
+standard).
+
+Cette facturation peut intégrer plusieurs sites, ou, à l’inverse, être scindée à l’intérieur d’un même site
+selon plusieurs groupes de postes : ce découpage de facturation sera détaillé dans le dossier technique
+du TITULAIRE.
+
+    7. Gestion des incidents et service après-vente
+
+
+Le TITULAIRE proposera une procédure de gestion d’incidents. Celle-ci devra être simple à mettre en
+œuvre et traitera au minimum des aspects suivants :
+
+    -   Le mode de contact pour signalement de l’incident (ligne téléphonique par numéro d’appel
+        gratuit, portail d’assistance…),
+    -   Identification du représentant de l’établissement, numéro de contrat, …
+    -   Prise en compte de la demande par le TITULAIRE (attribution d’un numéro de dossier,
+        horodatage, accusé de réception…),
+    -   Résolution de l’incident,
+    -   Suivi de l’incident,
+    -   Clôture du dossier et bilan de l’intervention.
+
+Il est rappelé la nécessité d’un service de gestion d’incident accessible 24h/24, 7j/7.
+
+
+
+
+                                                                                                        16
+HABITAT 17                                        CCTP                                     20/03/2023
+
+
+    8. Garantie de temps de rétablissement
+
+
+L’exploitation, la supervision et l’administration des réseaux et services du TITULAIRE sont assurés par
+le TITULAIRE 24h/24, 7j/7.
+
+Le TITULAIRE met en œuvre les équipements et les procédures pour assurer de manière permanente
+et continue, l’exploitation du service téléphonique au personnel et aux usagers du CLIENT et pour qu’il
+soit remédié aux effets d’une défaillance éventuelle du système dégradant la qualité du service dans
+les plus brefs délais.
+
+À chaque incident, le titulaire attribue, avec l'accord du pouvoir adjudicateur, un degré de sévérité
+selon la classification suivante :
+
+Incident bloquant :
+
+Tout incident rendant impossible l'utilisation de la solution de téléphonie pour un nombre important
+d'utilisateurs, comme par exemple :
+
+    -      Impossibilité d'établir une communication téléphonique correcte sur un nombre de postes
+           significatif,
+    -      Perte du plan de numérotation interne,
+    -      Impossibilité d'émettre des appels depuis la solution de téléphonie sur un nombre important
+           d'utilisateurs,
+    -      Défaillance d'un poste téléphonique du service relation clients.
+
+
+Incident non-bloquant :
+
+Tout dysfonctionnement mineur n'empêchant pas l'utilisation des services téléphoniques y compris
+au moyen d'une procédure de contournement.
+
+Délais :
+
+Les engagements de délais d'intervention et de rétablissement exigés au titre du présent accord-
+cadre sont les suivants :
+
+                                                                          Engagement de
+             Type d’incident        Engagement d'intervention
+                                                                          rétablissement
+                Bloquant                    2 h ouvrées                         J+1
+              Non-bloquant                  4 h ouvrées                         J+2
+
+
+Le TITULAIRE met à la disposition du CLIENT un centre de support client destiné à être le centre de
+gestion des incidents. Celui-ci doit être apte à réaliser immédiatement un premier diagnostic et, à
+même de gérer efficacement l’incident, qu’il soit identifié par le centre de supervision du TITULAIRE
+ou signalé par le CLIENT.
+
+Le TITULAIRE fournit un point de contact unique (numéro d’appel unique, formulaire de saisie) afin
+que le CLIENT puisse faire appel au centre de support client.
+
+De même, le centre de support client doit communiquer au CLIENT en cas de dérangement 24h/24 et
+7j/7, un diagnostic précis ainsi que les moyens mis en œuvre.
+
+
+
+                                                                                                        17
+HABITAT 17                                       CCTP                                       20/03/2023
+
+
+Le centre de support envoie au CLIENT, par la suite, un rapport sous 48 heures ouvrable, en cas
+d’incident avec impact majeur et un rapport récapitulatif mensuel intégré au tableau de bord. La fin
+de l’intervention donne lieu à une clôture formelle du dossier avec compte rendu.
+
+Dans le même temps, le TITULAIRE est tenu d’assister le CLIENT dans la localisation des défauts qui
+affectent l’interfonctionnement du service et des installations du CLIENT.
+
+À la date de prise d’effet du présent marché ou en cas d’adjonction d’équipements sur les installations
+du CLIENT, le TITULAIRE fournit, au plus tard le jour de leur mise en service, un dossier complet
+comprenant toutes les informations utiles.
+
+    9. Sécurité des communications
+
+
+Le TITULAIRE prend toutes les dispositions possibles pour réduire au maximum les intrusions et les
+perturbations qui pourraient survenir sur les communications téléphoniques et sur les
+communications réseaux. Il en va de même pour la confidentialité de ces communications.
+
+De plus, le TITULAIRE s’engagera à mettre en œuvre les moyens nécessaires au contrôle de l’utilisation
+frauduleuse du service par des personnes non habilitées.
+
+En cas de saturation de son réseau, ou de rupture du faisceau principal entraînant l’arrêt du service, le
+TITULAIRE devra assurer la continuité du service par tout moyen à sa convenance, y compris par
+débordement sur les autres opérateurs. Les coûts induits seront à la charge du TITULAIRE.
+
+
+
+
+                                                                                                      18
+HABITAT 17                                         CCTP                                       20/03/2023
+
+
+    10. Vérification du fonctionnement des services livrés
+    a. Déploiement des services
+
+
+Dans le cadre du déploiement des services, il est demandé au TITULAIRE les prestations suivantes :
+
+Élaboration d’un dossier de déploiement du service comprenant :
+
+    -   La configuration du service (type de raccordement, solution technique…),
+    -   Une assistance à la définition des règles de pare-feu, des équipements réseaux sur la base des
+        besoins exprimés par le CLIENT,
+    -   Un planning de déploiement du service, défini en collaboration avec le CLIENT.
+
+    b. Continuité du service
+
+
+Le TITULAIRE s’engage sur la parfaite continuité du service lors de la mise en œuvre de ses prestations.
+
+    c. Procédure de vérification
+
+
+Deux étapes seront distinguées dans la recette :
+
+    -   Une recette provisoire,
+    -   Une recette définitive.
+
+
+
+La recette provisoire (vérification d’aptitude)
+
+La recette provisoire a pour objet de vérifier le bon fonctionnement de la totalité des services mis en
+œuvre. Elle aura lieu en présence du représentant du CLIENT, dans un délai de cinq (5) jours ouvrés à
+compter de la mise en service.
+
+Le TITULAIRE fournira un cahier de test comprenant l’ensemble des tests et contrôles réalisés afin de
+vérifier le bon fonctionnement de la totalité des services souscrits par le CLIENT. Le TITULAIRE fournira
+ce document au moins trois (3) jours ouvrés avant la date de la recette provisoire.
+
+Le CLIENT sélectionnera parmi l’ensemble de ces tests, ceux qu’il souhaite réaliser avec le TITULAIRE
+afin de prononcer l’admission provisoire. Le CLIENT se réserve le droit d’ajouter les tests et contrôles
+indispensables à l’admission provisoire s’ils ne font pas partie du cahier de tests fourni par le
+TITULAIRE.
+
+La recette définitive (vérification de service régulier)
+
+La recette définitive a pour objet de valider le bon fonctionnement des services avec une exploitation
+proche de la configuration réseau définitive, et des liens en production. La recette définitive a lieu 4
+semaines après l’admission provisoire si aucun défaut majeur n’a été constaté entre l’admission
+provisoire et la date de la recette définitive.
+
+Le démarrage de la facturation est effectif dès la fin de la recette provisoire. Toutefois, durant la phase
+de recette définitive, toute communication pour laquelle le prestataire est retenu (local, national,
+international…) et qui est acheminée par un autre opérateur du fait du réseau du TITULAIRE, lui sera
+refacturée en totalité.
+
+
+                                                                                                        19
+HABITAT 17                                        CCTP                                        20/03/2023
+
+
+    d. Sécurité
+
+
+Le TITULAIRE s’engage à préserver la confidentialité des communications téléphoniques et des
+informations transmises par son réseau et à prémunir le CLIENT contre toute intrusion pouvant
+affecter la qualité et l’intégrité du service proposé.
+
+    11. Plan qualité
+
+
+Le TITULAIRE doit produire à l’appui de son offre, le plan qualité, relatif à l’exécution et la maintenance
+de ses réseaux, et de ses offres de services.
+
+    12. Maintenance préventive
+
+
+Le TITULAIRE détaillera les opérations de maintenance préventive qu’il entend réaliser. Ces opérations
+ne doivent pas avoir pour conséquences de perturber le fonctionnement du service. Dans le cas
+contraire, les perturbations seront décomptées comme des pannes (critère de qualité de service).
+
+    13. Documentation
+
+
+Le TITULAIRE fournira la documentation en français des matériels et logiciels installés. Il fournira
+également les notices d’utilisation et les tarifs des services qu’il offre.
+
+    E- Documents à fournir à l’appui des offres
+
+Le TITULAIRE fournira les documents suivants :
+
+    -   Un catalogue exclusif de ses produits et services de télécommunication ouverts au public,
+    -   Un exemplaire de facture identique à celui fourni au CLIENT pendant la durée du marché.
+
+Celui-ci sera conforme aux demandes de facturation énoncées au présent C.C.T.P. et comprendra
+impérativement :
+
+    -   Une liste détaillée des abonnements et services complémentaires facturés,
+    -   Une liste détaillée des communications avec les informations suivantes :
+           o Période de collecte des informations,
+           o Type d’appel (mobile, fixe, numéros spéciaux),
+           o Durée totale de la communication.
+
+Un état de consolidation présentant l’ensemble des coûts par accès (abonnements et
+communications).
+
+
+
+
+                                                                                                        20
+         HABITAT 17                                          CCTP                                      20/03/2023
+
+              VI-        Annexes
+              A- Liste des sites
+                                                                                                                                                         Connexion
+Nom du site                    Voie                           CP       Ville        Ligne analogique            Latitude             Longitude
+                                                                                                                                                         actuelle
+                                                                                    Pas de ligne analogique sur                                          FO 200 M
+Siège Habitat 17               9-11 avenue de Mulhouse         17000 LA ROCHELLE              lien fibre        46.1544587           -1.1460696000000326 + SDSL 12
+                                                                                       05 46 31 21 86 (SDSL)                                             M (secours)
+                               Rue de la Grave - Résidence                          Pas de ligne analogique sur                                          FTTO 100
+Antenne de Jonzac                                              17500 JONZAC                                     45.451115            -0.448051
+                               Philippe - Bâtiment F - RDC                                    lien fibre                                                 M
+                                                                                    Pas de ligne analogique sur                                            FTTO 100
+Antenne de Royan               9 rue André Malraux             17200 ROYAN                                      45.62569209999999    -1.0045964999999342
+                                                                                              lien fibre                                                   M
+                               2, rue Paul Gauguin -
+                                                                                    Pas de ligne analogique sur                                            FTTO 100
+Antenne de Surgères            Résidence Yolande -             17700 SURGERES                                   46.1078155           -0.7624041999999918
+                                                                                              lien fibre                                                   M
+                               Bâtiment A - Porte 6 - RDC
+Antenne de Villeneuve les      2 Rue Alphonse Baudin,                               Pas de ligne analogique sur                                            FTTO 100
+                                                               17000 LA ROCHELLE                                46.152714604663494   -1.1275291611600557
+Salines                        Bâtiment 402                                                   lien fibre                                                   M
+                               Rue Philippe Jannet -                   ST JEAN      Pas de ligne analogique sur
+Bureau St Jean d’Angely                                        17400                                            45.95138499999999    -0.5267209999999523 FTTH
+                               Résidence Carol N°6                     D’ANGELY               lien fibre
+                               Résidence la Sablière                   LA           Pas de ligne analogique sur
+Bureau La Tremblade                                            17390                                            45.777626            -1.145719             FTTH
+                               Rue du collège                          TREMBLADE              lien fibre
+                               26 Rue Pierre Loti –                                 Pas de ligne analogique sur
+Bureau d’Aytré                                                 17440 AYTRE                                      46.131099            -1.119905             FTTH
+                               Bâtiment Les Galapagos                                         lien fibre
+                                                                       L’ISLE
+Site hébergeur ID Line         86 avenue Maryse Bastié         16340                      05 45 37 33 15
+                                                                       D’ESPAGNAC
+
+
+
+
+                                                                                                                                                                      21
+HABITAT 17                             CCTP                       20/03/2023
+
+
+   B- Liste des sous réseaux
+
+
+                                          HABITAT 17
+                                           GROUPE       VLAN ID
+                                            HOTES            10
+                                             TEL             20
+                                          COPIEURS           30
+                         SIEGE H17
+                                          WIFI INVITE        40
+                                          SERVEURS           50
+                                           ADMIN            100
+                                            HOTES            10
+                                             TEL             20
+                      ANTENNE ROYAN
+                                          COPIEURS           30
+                                           ADMIN            100
+                                            HOTES            10
+                                             TEL             20
+                     ANTENNE JONZAC
+                                          COPIEURS           30
+                                           ADMIN            100
+                                            HOTES            10
+                                             TEL             20
+                    ANTENNE SURGERES
+                                          COPIEURS           30
+                                           ADMIN            100
+                                            HOTES            10
+                                             TEL             20
+                       ANTENNE VLS
+                                          COPIEURS           30
+                                           ADMIN            100
+                                            HOTES            10
+                                             TEL             20
+                       BUREAU AYTRE
+                                          COPIEURS           30
+                                           ADMIN            100
+                                            HOTES            10
+                      BUREAU ST JEAN         TEL             20
+                        D'ANGELY          COPIEURS           30
+                                           ADMIN            100
+                                            HOTES            10
+                                             TEL             20
+                   BUREAU LA TREMBLADE
+                                          COPIEURS           30
+                                           ADMIN            100
+
+
+
+
+                                                                         22
+
